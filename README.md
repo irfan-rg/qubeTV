@@ -55,7 +55,6 @@ The design process involved:
 ## 👤 Author
 
 **Irfan**
-- GitHub: [@irfan-rg](https://github.com/irfan-rg)
 - LinkedIn: [Irfan](www.linkedin.com/in/irfanrg)
 - Portfolio: [My Portfolio](https://irfanrg.vercel.app)
 
